@@ -1,0 +1,1238 @@
+description,requested_for,related,Class
+"Please add George Chialtas to Service Now.
+Rocko's Modern Life Supervising Timing Director at Nickelodeon \ User's name does not show up in Service Now ( been employed since 12\5\2016)", George  Chialtas(manual),0,a
+Service Now ITIL access to manage Ad Sales CRM Tickets,<TUSHAR> < LAAD >(MANUAL),1,a
+I need a Stockroom Shelf created for me and added to the correct ITAM group. ,Aaron Garcia (paramount\garciaaa),0,a
+"Please see the attached screenshot - while creating on boarding request - I entered user's first name and last name - suddenly all input elements on the form become un editable.
+I received a similar error earlier 
+Incident Link: INC01831916
+
+
+",Abhijit Sathe (paramount\satheab),1,a
+"Hi When i open an incident in the right side pane i am not able to update the incident status. see attached screenshot
+",Abhijit Sathe (paramount\satheab),0,a
+"Hi,
+Please add below members to the CCC-Custom Application Assignment group
+Mayank Tiwari
+Bhagyashree Nevrekar
+Anuya Telang
+
+thank you",Abhijit Sathe (paramount\satheab),1,a
+"Abhishek is unable to run reports on ServiceNow.
+Everytime he tries, it gives a timed out error. please assist.
+
+Contact Abhishek on - 
+
+Email - Abhishek_Mishra3@Dell.com
+Phone # - +91-9711132456",Abhishek Mishra (mtvn\mishraab),0,a
+"Hi Team,
+
+This is regarding my newly created Corp ID.
+
+I am facing problem to access service now. When I am trying to open servicenow using ""https://vmnprod.service-now.com/navpage.do"", its automatically redirecting me to link ""https://vmnprod.service-now.com/viaess/"".
+
+I am also not able to see ITIL View option in my servicenow and not able to create any ticket.
+
+Please configure my Servicenow using below mirror ID.
+
+Mirror ID : corp\singprit
+
+My ID : corp\vishwabh
+
+And in My Computer I am also not able to see any kind of network drive for me where I can save my data.
+
+Please setup my network drives using same mirror ID that is Mirror ID : corp\singprit.
+
+Please find the below screenshot of my servicenow.
+
+[cid:image001.jpg@01D28A9F.E06F9D50]
+
+
+Thanks and Regards
+Abhishek Vishwakrama",Abhishek Vishwakarma (corp\vishwabh),1,a
+"Name: Adam Messinger
+Issue: Cannot submit OnBoarding PAC successfully (Ref. RITM00558055). Can you please assist
+Location: Bluhdorn (B205) - 222
+Ext: 6-4815",Adam Messinger (paramount\messinad),,a
+"ServiceNow team,
+    As tested in the ServiceNow test environment a recurring change request can not be created.  Attached is a screenshot which shows the error message. 
+
+Thanks,
+-Adam
+",Adam Van Antwerp (mtvn\vanantwa),0,a
+"Hansen,
+  We had a host failure over the weekend, which created several hundred spurious ServiceNow Incidents in the DBA-L3 queue.  Can you bulk delete/remove these incidents.
+
+Thanks,
+-Adam
+",Adam Van Antwerp (mtvn\vanantwa),1,a
+"Please add Adrian Costoya and Edgardo Arribere to the list of VMS approvers in Service Now Portal.
+
+
+Thanks",Adrian Costoya (playasur\costoyaa),0,a
+"Hi folks,
+We finalized the NewRelic contract for multiplatform application monitoring on 12/31/16.   As per Viacom's requirement for Service-Now integration, please see the attached doc on integration with NewRelic.
+
+Requirements are a new user account provisioned with rest_services role.  The account should have permissions for incidents in assignment groups MWO-L2, MWO-L3, MCS-L2, DBA-L2.
+
+Per the doc, we'll need the user account, email address, and password provided.
+
+Thanks!",Adrien Veltri (mtvn\veltria),1,a
+"ITSM team,
+Since the middle of June, I'm not seeing these automated requests from our self-service tool generated tickets with the MWO-L3 team.   Is there any servicenow level logic that is denying ticket creation?
+
+
+For example, here I see this email was sent to request@onlineops.viacom.com, but no INC ticket was generated.  The last ticket I see with short description ""Portal request for DNS update"" is June.
+
+Thanks
+
+
+From: Hosting Portal <noreply@viacom.com>
+Reply-To: ""Request@onlineops.viacom.com"" <request@onlineops.viacom.com>
+Date: Friday, August 5, 2016 at 4:46 PM
+To: ""Request@onlineops.viacom.com"" <request@onlineops.viacom.com>
+Cc: Adrien Veltri <adrien.veltri@viacom.com>
+Subject: Portal request for DNS update
+
+A redirect was updated by Adrien Veltri through the hosting.mtvi.com redirect interface for the site bet.com.
+
+www.betexperience.com/* -> http://www.bet.com/bet-experience.html
+
+The DNS entry for www.betexperience.com does not currently resolve to the redirect server and will require a DNS change for the redirect to begin working.  This change can take up to 24 hours to propagate.
+
+Online Ops: Please process a change request to modify the DNS record to new IP 206.220.43.92.
+",Adrien Veltri (mtvn\veltria),0,a
+"Hansen,
+Generating a work ticket per our previous call for 3 additional ""Resolve Category"" entries and their respective ""Resolve Subcategory"" entries required for application outage reporting.
+
+Thanks!
+
+Infrastructure
+- Networking
+- Database
+- CDN Issue
+- High load Condition
+- Redis
+- NFS Mountpoint
+- Diskspace
+- Internal DNS
+- Other
+
+Application Issue
+- Missed files/artifacts during Deployment
+- Code Release Issue
+- App issue
+- Centralized service dependency
+- External service dependency
+- Caching Issue - High Traffic
+- Other
+- 
+Content issue
+- Bad Content
+- Missing Content
+- Old Cached content
+- Other
+",Adrien Veltri (mtvn\veltria),1,a
+"Hi Hansen, ITSM team, 
+I've lost my rights to Create and Edit my CIs in the website class. Can I get this fixed asap? 
+
+Thanks ",Adrien Veltri (mtvn\veltria),0,a
+"Hi ITSM team, 
+We have an SSL certificate request form in the service catalog at the following path:
+
+    Service Catalog > New Hire Provisioning Services > Application Access & Software Request > Application Access & Software >	SSL Certificate Request
+
+Is it possible to generate a permanent link to access this form rather than directing our clients to find it though service-now navigation?
+
+Thanks 
+",Adrien Veltri (mtvn\veltria),1,a
+"ITSM team,
+Can you please grant Scott Baierwalter and Brandon Clark (added as watchers) ITIL user role?  They should have access in Service-Now to see all multi-platform team open incidents.
+
+Thanks",Adrien Veltri (mtvn\veltria),0,a
+"Hi ITSM team,
+The mcsapi user account currently creates/modifies/deletes Linux CIs and there is a sync job that updates the CMDB.  Can you please replicate this workflow for the ""Website"" and ""MySQL Instance"" CI classes?
+
+Thanks ",Adrien Veltri (mtvn\veltria),1,a
+"Hello,
+Getting below error message when trying to log in to ServiceNow site.
+Can you please advise.
+Thank you
+Agnieszka
+
+
+[cid:image001.png@01D23B69.B0DB90B0]
+
+This email (including any attachments) is for its intended-recipient's use only. This email may contain information that is confidential or privileged. If you received this email in error, please immediately advise the sender by replying to this email and then delete this message from your system.",Agnieszka Szymanska (paramount\szymanag),0,a
+"Help desk,
+ 
+Please open an incident to have Orozco, Eva - Paramount Eva_Orozco@Paramount.com<mailto:Eva_Orozco@Paramount.com> and Remmele, David - Paramount David_Remmele@Paramount.com<mailto:David_Remmele@Paramount.com> be added as a requestor/approver for catalog ZDC Systems (Close and Certification).
+Please copy Szymanska, Agnieszka - Paramount Agnieszka_Szymanska@Paramount.com<mailto:Agnieszka_Szymanska@Paramount.com> access/profile.
+ 
+Thank you
+Agnieszka
+",Agnieszka Szymanska (paramount\szymanag),1,a
+"TSA,
+This user still does not have a ServiceNow profile and is therefore unable to log in as well or able to receive incident updates.
+User shows as manual on our end. Please create profile
+
+Please see INC02117315 for initial activation and INC02117696 for manager approval. 
+VIN is listed in that ticket as well. 
+When submitted, users profile was never created for ServiceNow. 
+
+User information as noted: 
+USER;Patterson, Aja 
+MAIN/USERNAME: MTVN\Pattersa 
+EXCHANGE DISPLAY NAME;Aja.Patterson 
+SMTP ADDRESS;Aja.Patterson@viacomcontractor.com 
+User DN: CN=Patterson\, Aja,OU=User,OU=*Accounts,DC=mtvn,DC=ad,DC=viacom,DC=com 
+Current User VIN: 9090007624
+
+Users AD account was disabled at beginning of April and was never added back into ServiceNow as a Viacom user. 
+Please add user profile back to ServiceNow and remove the 3 manual accounts associated with the user.
+User is not receiving e-mails because her information does not show in the system. 
+User is also unable to log into market because of this.
+",Aja Patterson (Manual),0,a
+"Hi team,
+
+Kindly add  ""paramount/sonargsh"" in Service-now with mirror account ""paramount\minochva"". 
+Shubham Sonarghare is new member in backup team.
+",Ajay Kumar (corp\kumara),1,a
+"Hi Team,
+
+Our team receives multiple P1 incidents simultaneously mostly on daily basis and it takes a lot of time and efforts to open each incident and update the 'ITIL Watch List'.
+
+We need to add the below three DL's in the ITIL watch-list:
+-vmn_sev1@paramount.com
+-NOCCentralMonitoring@viacom.com
+-ppc_sev1@paramount.com
+
+Request you to please enable the 'ITIL Watch List' to be editable form the service-now home page just like the 'Assigned to' column.
+Attaching the screen shot of the error we receive while trying to edit it form our home page.",Akanksha Gautam (paramount\gautamak),0,a
+"Hi Team,
+
+Please add below members to Support Groups ( TCSPRDCTL and PLATFORMENG-L1 ).
+
+Richa Mishra (paramount\mishrari)
+Akanksha Gautam (paramount\gautamak)
+
+
+Thanks.
+Anuradha",Akanksha Gautam (paramount\gautamak),1,a
+"Please route to the Service Now support queue.
+
+Is it possible to get a mirror of the GDG-VMN assignment group/queue in the https://vmntest.service-now.com/ testing environment? There are a number of projects with different systems posting into the queue that need to be tested prior to releasing to production. Please let me know if there are any more details I can provide.
+
+Thanks,
+Alan Campbell
+Product Manager, GCC",Alan Campbell (mtvn\campbelal),,a
+"Hi,
+
+I currently seem unable to access any Service now tickets on the web portal.
+
+When I click on links to incident numbers, I always get redirected back to the main page on the service now site.
+
+Alec.
+--
+Alec Hendry  |  Senior Director, Multi Platform  |  Viacom International Media Networks
+Email: alec@mtv.co.uk  |  Phone: +44 (0)20 3580 2345   |  Mobile:   +44 (0) 7788 456 856
+CONFIDENTIALITY NOTICE
+
+This e-mail (and any attached files) is confidential and protected by copyright (and other intellectual property rights). If you are not the intended recipient please e-mail the sender and then delete the email and any attached files immediately. Any further use or dissemination is prohibited.
+
+While MTV Networks Europe has taken steps to ensure that this email and any attachments are virus free, it is your responsibility to ensure that this message and any attachments are virus free and do not affect your systems / data.
+
+Communicating by email is not 100% secure and carries risks such as delay, data corruption, non-delivery, wrongful interception and unauthorised amendment. If you communicate with us by e-mail, you acknowledge and assume these risks, and you agree to take appropriate measures to minimise these risks when e-mailing us.
+
+MTV Networks International, MTV Networks UK & Ireland, Greenhouse, Nickelodeon Viacom Consumer Products, VBSi, Viacom Brand Solutions International, Be Viacom, Viacom International Media Networks and VIMN and Comedy Central are all trading names of MTV Networks Europe.  MTV Networks Europe is a partnership between MTV Networks Europe Inc. and Viacom Networks Europe Inc.  Address for service in Great Britain is 17-29 Hawley Crescent, London, NW1 8TT.",Alec Hendry (mtvne\HENDRA),0,a
+"Hello Team,
+
+Can we please grant desktop techs Manuel Savino (Playasur\savinoma) and Bismarck Morales (Playasur\moralesb) access to GCT. Jose Orozco on copy can provide approval if needed.
+
+Thank you,
+
+Alejandro Betancourt | Sr Tech Support Rep | Media &  Technology Service
+Tel: 305-535-3753  Cel: 305.399.7351 | email: Alejandro.Betancourt@vimn.com<mailto:Alejandro.Betancourt@vimn.com>
+
+[cid:image001.png@01D1D23C.AF56B120]",Alejandro Betancourt (playasur\Betancoa),1,a
+"Please add user to AD groups of Rg Apps Dev- International Buisness Intelligence mirroring Joshua Worthington
+_______________________
+
+Hi There,
+
+Can user Alessio Coraci be added to the Service Now group ""RG Apps Dev - International Business Intelligence""? Alessio will also need access to Service Now as part of being a member of the International Business Intelligence team.
+
+Regards
+Josh
+
+
+
+        Joshua Worthington
+Application Manager - International Business Intelligence
+Joshua.worthington@vimn.com | T: +44 (0) 203 580 2324 | M: +44 (0) 7760 316 917
+
+
+
+
+CONFIDENTIALITY NOTICE
+
+This e-mail (and any attached files) is confidential and protected by copyright (and other intellectual property rights). If you are not the intended recipient please e-mail the sender and then delete the email and any attached files immediately. Any further use or dissemination is prohibited.
+
+While MTV Networks Europe has taken steps to ensure that this email and any attachments are virus free, it is your responsibility to ensure that this message and any attachments are virus free and do not affect your systems / data.
+
+Communicating by email is not 100% secure and carries risks such as delay, data corruption, non-delivery, wrongful interception and unauthorised amendment. If you communicate with us by e-mail, you acknowledge and assume these risks, and you agree to take appropriate measures to minimise these risks when e-mailing us.
+
+MTV Networks International, MTV Networks UK & Ireland, Greenhouse, Nickelodeon Viacom Consumer Products, VBSi, Viacom Brand Solutions International, Be Viacom, Viacom International Media Networks and VIMN and Comedy Central are all trading names of MTV Networks Europe.  MTV Networks Europe is a partnership between MTV Networks Europe Inc. and Viacom Networks Europe Inc.  Address for service in Great Britain is 17-29 Hawley Crescent, London, NW1 8TT.",Alessio Coraci (mtvne\CoracA),0,a
+"Hello Tech Connect,
+
+I’m trying to reserve a NY conference room for a reoccurring monthly meeting — 1515 38-04 (VC) which sent me an acceptance for my meeting on Wed May 10  at 10AM Pacific called Nick Jr. App Customer Support Monthly.
+
+When I reserve it this message arrives:
+
+Your request was accepted.
+
+Your request was accepted through 4/11/2018.
+
+All times listed are in the following time zone: (UTC-08:00) Pacific Time (US & Canada)
+________________________________
+***This room can only be booked by Event Operations*** To reserve a Video Conference please use the link below: https://viaprod.service-now.com/viaess/video_conf_req_form.do
+________________________________
+Sent by Microsoft Exchange Server 2016
+
+
+If I click the link it goes to an old instance of Service Now. My question is that after I sign in to SSO and go  to the new instance:  vmnprod.service-now.com<https://vmnprod.service-now.com/>
+it’s not clear to me where I am supposed to go to request VC. Actually I’m not even sure if this is needed since when we set up VC at the Burbank Studio, we just use the touchpad to call BlueJeans. Is it the same for NY? Can the email be updated to lead directly to the current procedure?
+
+Any assistance would be appreciated; I’ve never had to set up a room for them before and I want to make sure it’s actually going to work for them.
+
+Thanks,
+
+
+Alethea Allarey | 818.551.7506
+Senior Tech Support Representative
+nickelodeon",Alethea Allarey (mtvn\allareya),1,a
+"OnlineOPS,
+please assign this request to ITSM team.
+
+ITSM team,
+please add 2 new SN tags for DSS team:
+DSS-Product-AAPI
+DSS-Product-ARCUI
+
+Thank you",Alex Murygin (mtvn\murygina),0,a
+"ITSM team,
+could you please create new SN tags for DSS team:
+DSS-Product-Intl-Sensei
+DSS-Product-Intl-Symfony
+DSS-Product-Intl-Scenic
+DSS-Product-Intl-Wordpress
+DSS-Product-Intl-Drupal
+DSS-Product-Intl-Grails
+DSS-Product-Intl-Playplex
+
+Thank you",Alex Murygin (mtvn\murygina),1,a
+"Colleagues,
+Please assign it to ITSM team.
+
+ITSM team,
+Please add following SN tags for DSS team:
+DSS-Ads-Provider-Adx
+DSS-Ads-Provider-Facebook
+DSS-Ads-Provider-GPS
+DSS-Ads-Provider-Rubicon
+DSS-Product-Seamless
+DSS-Product-Mediautils-Live
+DSS-Product-WON
+
+Thank you",Alex Murygin (mtvn\murygina),0,a
+"OnlineOPS,
+Please assign it to ITSM team.
+
+ITSM team,
+We see that OLAs for our old incidents aren't in DSS group anymore. It started from August. Most likely new set of OLAs was added at that time.
+
+We do different type of reporting based on OLA and without possibility to understand whether it's our team's OLA or not we can't provide reporting for all our old incidents.
+
+Here is an example of old incident INC01683203:
+        SLA     Group   Type    Stage   Start time      End time        Actual elapsed time     Actual elapsed percentage
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=088f485a4f74224040f4d49f0310c795&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=1&sysparm_record_list=task%3D277f8cd64f74224040f4d49f0310c706&sysparm_record_rows=4>       SLA-RESOLUTION-P3-5Days         SLA     Paused  2016-Jul-25 13:32:40            34 Minutes      0.14
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=337f485a4f74224040f4d49f0310c794&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=2&sysparm_record_list=task%3D277f8cd64f74224040f4d49f0310c706&sysparm_record_rows=4>       OLA-RESPONSE-P3-6Mins           OLA     Achieved        2016-Jul-25 13:32:40    2016-Jul-25 13:33:34    54 Seconds      9
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=377f485a4f74224040f4d49f0310c793&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=3&sysparm_record_list=task%3D277f8cd64f74224040f4d49f0310c706&sysparm_record_rows=4>       OLA-RESOLUTION-P3-1Day          OLA     Paused  2016-Jul-25 13:32:40            34 Minutes      2.39
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=3f7f485a4f74224040f4d49f0310c794&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=4&sysparm_record_list=task%3D277f8cd64f74224040f4d49f0310c706&sysparm_record_rows=4>       SLA-RESPONSE-P3-1Day            SLA     Achieved        2016-Jul-25 13:32:40    2016-Jul-25 13:33:34    54 Seconds      0.02
+
+Group is empty.
+
+For all new incident everything is fine. Like for INC01699362 we have 2 Estandard OLA under DSS group.
+
+SLA
+Group
+Type
+Stage
+Start time
+End time
+Actual elapsed time
+Actual elapsed percentage
+
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=24ec517c4fc92a408d853d828110c776&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=1&sysparm_record_list=task%3Dd8ec517c4fc92a408d853d828110c773&sysparm_record_rows=4>
+SLA-RESOLUTION-P3-5Days
+
+SLA
+Paused
+2016-Aug-02 13:35:34
+
+7 Minutes
+0.03
+
+
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=60ec517c4fc92a408d853d828110c777&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=2&sysparm_record_list=task%3Dd8ec517c4fc92a408d853d828110c773&sysparm_record_rows=4>
+Estandard DSS-OLA-RESPONSE-P3-10Mins
+DSS
+OLA
+Achieved
+2016-Aug-02 13:35:34
+2016-Aug-02 13:36:05
+31 Seconds
+5.17
+
+
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=a8ec517c4fc92a408d853d828110c774&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=3&sysparm_record_list=task%3Dd8ec517c4fc92a408d853d828110c773&sysparm_record_rows=4>
+Estandard DSS-OLA-RESOLUTION-P3-1Day
+DSS
+OLA
+Paused
+2016-Aug-02 13:35:34
+
+7 Minutes
+0.5
+
+
+ <https://vmnprod.service-now.com/task_sla.do?sys_id=e4ec517c4fc92a408d853d828110c775&sysparm_view=&sysparm_record_target=task_ci&sysparm_record_row=4&sysparm_record_list=task%3Dd8ec517c4fc92a408d853d828110c773&sysparm_record_rows=4>
+SLA-RESPONSE-P3-1Day
+
+SLA
+Achieved
+2016-Aug-02 13:35:34
+2016-Aug-02 13:36:05
+31 Seconds
+0.01
+
+
+
+
+Thank you",Alex Murygin (mtvn\murygina),1,a
+"OPS team,
+Please assign this ticket to ITSM team.
+
+ITSM team,
+We already have daily mail report from SN with Subject ""DSS open ADs incidents"".
+
+Please add some additional parties to this report:
+Leyba, Ryan Ryan.Leyba@viacom.com<mailto:Ryan.Leyba@viacom.com>
+Gaige, Karina Karina.Gaige@comedycentral.com<mailto:Karina.Gaige@comedycentral.com>
+Jamison, Cheryl Cheryl.Jamison@cc.com<mailto:Cheryl.Jamison@cc.com>
+
+Thank you",Alex Murygin (mtvn\murygina),0,a
+"OnlineOPS,
+
+could you please assign it to ITSM team?
+
+ITSM team,
+could you please remove trailing space and \xa0 characters from following DSS tags?
+
+        <item label=""DSS-Brand-AllSites<A0>"" name=""5be9a7ad2b9392002e3f127c17da15bb"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Artists<A0>"" name=""97e9a7ad2b9392002e3f127c17da15bc"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Bellator<A0>"" name=""53e9a7ad2b9392002e3f127c17da15c2"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-BET<A0>"" name=""9fe9a7ad2b9392002e3f127c17da15c2"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-CCPressSites<A0>"" name=""1be9a7ad2b9392002e3f127c17da15c4"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-CC<A0>"" name=""dbe9a7ad2b9392002e3f127c17da15c3"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-CMT<A0>"" name=""57e9a7ad2b9392002e3f127c17da15c5"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-ColbertNation<A0>"" name=""93e9a7ad2b9392002e3f127c17da15c6"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Jokes<A0>"" name=""dfe9a7ad2b9392002e3f127c17da15c6"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-keepviacom.com<A0>"" name=""1fe9a7ad2b9392002e3f127c17da15c7"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Logo<A0>"" name=""5be9a7ad2b9392002e3f127c17da15c8"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-MTV Hive<A0>"" name=""d3e9a7ad2b9392002e3f127c17da15bd"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-MTV2<A0>"" name=""13e9a7ad2b9392002e3f127c17da15be"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-MTVPressSites<A0>"" name=""d3e9a7ad2b9392002e3f127c17da15ca"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-MTVu<A0>"" name=""5fe9a7ad2b9392002e3f127c17da15be"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-MTV<A0>"" name=""97e9a7ad2b9392002e3f127c17da15c9"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Next Movie<A0>"" name=""9be9a7ad2b9392002e3f127c17da15bf"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-NickJr<A0>"" name=""93e9a7ad2b9392002e3f127c17da15d3"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-NickPressSites<A0>"" name=""dfe9a7ad2b9392002e3f127c17da15d3"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-NickToons<A0>"" name=""2fe9a7ad2b9392002e3f127c17da15d4"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Nick<A0>"" name=""57e9a7ad2b9392002e3f127c17da15d2"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Noggin<A0>"" name=""6be9a7ad2b9392002e3f127c17da15d5"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Ratemyprofessors<A0>"" name=""17e9a7ad2b9392002e3f127c17da15c1"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-SouthParkStudios<A0>"" name=""13e9a7ad2b9392002e3f127c17da15cb"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-SpikePressSite<A0>"" name=""9be9a7ad2b9392002e3f127c17da15cc"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Spike<A0>"" name=""5fe9a7ad2b9392002e3f127c17da15cb"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-TeenNick<A0>"" name=""a7e9a7ad2b9392002e3f127c17da15d6"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-TheDailyShow<A0>"" name=""d7e9a7ad2b9392002e3f127c17da15cd"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Tosh.0Blog<A0>"" name=""53e9a7ad2b9392002e3f127c17da15cf"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Tosh<A0>"" name=""17e9a7ad2b9392002e3f127c17da15ce"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-Tr3s<A0>"" name=""d7e9a7ad2b9392002e3f127c17da15c0"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-TVLand<A0>"" name=""9fe9a7ad2b9392002e3f127c17da15cf"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-VH1PressSites<A0>"" name=""1be9a7ad2b9392002e3f127c17da15d1"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Brand-VH1<A0>"" name=""dbe9a7ad2b9392002e3f127c17da15d0"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cluster-Asia<A0>"" name=""cbe9a7ad2b9392002e3f127c17da15b6"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cluster-EM<A0>"" name=""0be9a7ad2b9392002e3f127c17da15b7"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cluster-LatAm<A0>"" name=""47e9a7ad2b9392002e3f127c17da15b8"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cluster-North Europe<A0>"" name=""83e9a7ad2b9392002e3f127c17da15b9"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cluster-South Europe<A0>"" name=""cfe9a7ad2b9392002e3f127c17da15b9"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cluster-UK<A0>"" name=""0fe9a7ad2b9392002e3f127c17da15ba"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Android App<A0>"" name=""e3e9a7ad2b9392002e3f127c17da15d7"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Android Web<A0>"" name=""23e9a7ad2b9392002e3f127c17da15d8"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-AppleTV<A0>"" name=""6fe9a7ad2b9392002e3f127c17da15d8"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Chromecast<A0>"" name=""abe9a7ad2b9392002e3f127c17da15d9"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Desktop<A0>"" name=""e7e9a7ad2b9392002e3f127c17da15da"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Emerging All<A0>"" name=""27e9a7ad2b9392002e3f127c17da15db"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-iOS App<A0>"" name=""63e9a7ad2b9392002e3f127c17da15dc"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-iOS Web<A0>"" name=""afe9a7ad2b9392002e3f127c17da15dc"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Mobile All<A0>"" name=""ebe9a7ad2b9392002e3f127c17da15dd"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Other<A0>"" name=""2be9a7ad2b9392002e3f127c17da15de"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Roku<A0>"" name=""67e9a7ad2b9392002e3f127c17da15df"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Platform-Xbox 360<A0>"" name=""a3e9a7ad2b9392002e3f127c17da15e0"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Product-Internal Other<A0>"" name=""4fe9a7ad2b9392002e3f127c17da15b1"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Product-MobileShake<A0>"" name=""8be9a7ad2b9392002e3f127c17da15b2"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Product-Platform Tools<A0>"" name=""c7e9a7ad2b9392002e3f127c17da15b3"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Product-PMT/PJS/FAS<A0>"" name=""07e9a7ad2b9392002e3f127c17da15b4"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Product-Problem<A0>"" name=""43e9a7ad2b9392002e3f127c17da15b5"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Product-Task<A0>"" name=""8fe9a7ad2b9392002e3f127c17da15b5"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cause-Cache "" name=""727a7c7b78311e40dca2d79f1417cfdb"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cause-Code issue "" name=""d90bb0bb78311e40dca2d79f1417cf0f"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cause-Configuration issue "" name=""2fda7c7b78311e40dca2d79f1417cfdd"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cause-Content publishing issue "" name=""dfaa3cb378311e40dca2d79f1417cf16"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cause-Infrastructure issue "" name=""c41b70bb78311e40dca2d79f1417cfc8"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cause-Not reproduced "" name=""1efab83778311e40dca2d79f1417cf68"" sysparm_name=""u_note_tags.1"" />
+        <item label=""DSS-Cause-Other "" name=""c82b70bb78311e40dca2d79f1417cfb0"" sysparm_name=""u_note_tags.1"" />
+
+
+Thank you",Alex Murygin (mtvn\murygina),1,a
+User received 2000+  emails from Tech connect with the same ticket number about the same issue ,Alexa Morales (mtvn\Moralesal),0,a
+"Hello,
+
+Please add Carlos Martinez (martinca@viacom.com)<mailto:martinca@viacom.com)> to the list of Manager/Approvers for:  “VMS Web/ALIAS New User Onboarding”.
+
+Thanks!
+Alex",Alexandra Brennan (mtvn\brennana),1,a
+"Hello,
+
+Please remove Arun Pahal from the managers approval list.
+
+Thanks,
+Alex",Alexandra Brennan (mtvn\brennana),0,a
+"Hello,
+
+We need to have one of the checkbox items renamed on our ALIAS Onboarding Form<https://vmnprod.service-now.com/viaess/catalog.do?v=1&uri=com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D583e951585df4600dca2777989c49212%26sysparm_link_parent%3D7270e02e0d3e51401ad0e1208a9181bd%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4&sysparm_document_key=sc_cat_item,583e951585df4600dca2777989c49212>. It should be VMS Web instead of ALIAS Web.
+<https://vmnprod.service-now.com/viaess/catalog.do?v=1&uri=com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D583e951585df4600dca2777989c49212%26sysparm_link_parent%3D7270e02e0d3e51401ad0e1208a9181bd%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4&sysparm_document_key=sc_cat_item,583e951585df4600dca2777989c49212>
+<https://vmnprod.service-now.com/viaess/catalog.do?v=1&uri=com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D583e951585df4600dca2777989c49212%26sysparm_link_parent%3D7270e02e0d3e51401ad0e1208a9181bd%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4&sysparm_document_key=sc_cat_item,583e951585df4600dca2777989c49212>
+Please let me know if you have any questions!
+
+Thanks
+Alex",Alexandra Brennan (mtvn\brennana),1,a
+"Hi,
+
+Client Alice Zhou cannot access service now. When client attempts to access site error message pops up stating ""user not found"". I've tried deleting cache, different browsers, different computers, and still receive the same error message.  I was able to log in as well. 
+
+Please kindly assist.
+
+thank you! 
+",Alice Zhou (manual),0,a
+"Hello - I keep getting these emails. I believe that this ticket has been closed. Can someone confirm that I will no longer receive these emails?
+
+
+From: Viacom TechConnect [mailto:vmnprod@service-now.com]
+Sent: Friday, March 17, 2017 3:02 AM
+To: Ferriso, Alicia
+Subject: REMINDER — Request RITM00581327 requires your approval
+
+This is an automated email reminder. Please do not reply to this email.
+NOTE: REMINDER – The Requested Item below is pending your approval.If you do not approve within 15 days of submission the Requested Item will be cancelled. To approve, please click the link below to access the Requested Item.
+
+Please review the information from the link below.
+
+Link to Approval Request in Service-Now: Created 2017-Mar-01 18:40:58 EST<https://vmnprod.service-now.com/nav_to.do?uri=sysapproval_approver.do%3Fsys_id=82f791704fd9f6408d853d828110c71b%26sysparm_stack=sysapproval_approver_list.do>
+
+Click here to view Requested Item: RITM00581327<https://vmnprod.service-now.com/nav_to.do?uri=sc_req_item.do%3Fsys_id=ff5170ec4f0dba008eca97dd0210c7e3%26sysparm_stack=sc_req_item_list.do%3Fsysparm_query=active=true>
+
+Catalog Item: 23"" Display
+
+Short Description:23"" Display request for Alicia Ferriso
+
+INSTRUCTIONS:
+1) Choose the appropriate action to ""Approve"" or ""Reject"" the Request by using the links below.
+2) After a new e-mail is created by that link, DO NOT CHANGE the To address, Subject or Message in the e-mail.
+3) You must SEND the generated email to Complete the Approval/Rejection Process.
+
+________________________________
+Click here to approve RITM00581327<mailto:vmnprod@service-now.com?subject=Re%3ARITM00581327%20-%20approve&body=%0A%0ARef%3AMSG52594112%20>
+________________________________
+Click here to reject RITM00581327<mailto:vmnprod@service-now.com?subject=Re%3ARITM00581327%20-%20reject&body=%0A%0ARef%3AMSG52594112%20>
+________________________________
+
+For questions, please contact Helpdesk at 323-956-3400.
+
+Ref:MSG52594112",Alicia Ferriso (mtvn\ferrisoa),1,a
+"I might need more access rights for Service Now.
+I need to check and research about Database Views and Data Dictionaries tables but I don't have access to these options in the menu.
+",Alvaro Menendez (paramount\menendal),,a
+"Alvaro Menendez (userid menendal) is requesting to be added to the P-EAIADMIN group in ServiceNow, please assist. 
+
+
+",Alvaro Menendez (paramount\menendal),0,a
+"Audrey Gray is unable to access service now on safari or chrome, user does not have a ServiceNow Record, sending ticket to ServiceNow Team to manually add user
+
+Display name: Gray, Audrey
+Domain\adid: mtvn\grayau
+SMTP: Audrey.Gray@nick.com",Amanda McCann (mtvn\mccanna),1,a
+"Hello, when i am using my service now in citrix or not , the search bar at the top right corner will not stay , it just disappears. I can not search old RITMS . I also do not have the function at the bottom of that shows related tickets. I can not see SCtask#s or parent tickets, etc. Please assist thank you ",Amanda Read (mtvn\ReadAm),0,a
+"Amanjit Singh| Service Desk Manager
+Amanjit.Singh@nttdata.com<mailto:Amanjit.Singh@nttdata.com> | c +91-9205192339 | nttdata.com/americas
+NTT DATA Services, LLC
+Consulting | Digital | Managed Services | Industry Solutions
+[cid:image001.jpg@01D117EE.29891500]<http://www.linkedin.com/pub/ygnacio-salinas-pmp-itilv3/74/942/527>
+
+From: SHARMA, SHUBHANGI - NTT
+Sent: Tuesday, March 28, 2017 7:41 AM
+To: DL-IS-SD Acct Viacom <DL-IS-SD_Acct_Viacom@Dell.com>
+Cc: Singh, Amanjit - NTT <Amanjit_Singh@Dell.com>; Mishra3, Abhishek - NTT <Abhishek_Mishra3@Dell.com>; Chawla, Gaganpreet - NTT <Gaganpreet_Chawla@Dell.com>
+Subject: SCTASK report - 28/03/17
+
+
+Dell - Internal Use - Confidential
+Hello Team,
+
+PFB.
+Number
+
+Priority
+
+Status(state)
+
+Short description
+
+Assignment group
+
+Assigned to
+
+SCTASK00603144
+
+P4 - Low
+
+Pending
+
+Task assigned to Admin group to Remove User
+
+RG Service Desk
+
+Shubhangi Sharma (mtvn\sharmash)
+
+
+@Aman Sir/Abhishek Sir: We are unable to assign SCTASK00603144 to the concerned team as it's mandatory to fill channel options and channel option is empty. I have informed Ross about it and he said that he will email Service Now Team regarding it.
+
+Regards,
+Shubhangi Sharma
+Client Tech Support Associate  | IT Service Desk
+NTT DATA Services | Infrastructure Solutions
+Cell + 91-9643892725
+Learn more:
+[cid:image001.jpg@01D23CBD.18767E70]<https://www.nttdataservices.com/>
+
+[cid:image002.jpg@01D23CBD.18767E70]<https://www.linkedin.com/company/2494361>
+
+[cid:image003.jpg@01D23CBD.18767E70]<https://twitter.com/NTTDATAInc>
+
+[cid:image004.jpg@01D23CBD.18767E70]<https://www.facebook.com/NTTDATAAmericas>
+
+[cid:image005.jpg@01D23CBD.18767E70]<https://www.youtube.com/NTTDATAInc>
+
+
+
+
+______________________________________________________________________
+Disclaimer: This email and any attachments are sent in strictest confidence
+for the sole use of the addressee and may contain legally privileged,
+confidential, and proprietary data. If you are not the intended recipient,
+please advise the sender by replying promptly to this email and then delete
+and destroy this email and any attachments without any further use, copying
+or forwarding.",Amanjit Singh (mtvn\asingh),1,a
+"The below Active Directory group has been created, please add it to Service now and confirm that a ticket is generated when it is emailed.
+
+Display name: RG Desktop - Executive
+Smtp: execsupport@viacom.com
+Owner: Amar Patel 
+Members: Amar Patel, David Sproule, Rica Natividad, Marcin Bak, David Evans, Fernando Fernandez
+
+see below for Amar Patel's approval
+
+From: Patel, Amar 
+Sent: Thursday, March 23, 2017 10:53 AM
+To: Hersh, Ross
+Cc: Millan, Jose; Joyce, John
+Subject: Executive Support 
+Importance: High
+
+Hi Ross, 
+
+Sorry to reach out directly, but the team needs this created rather quickly. 
+
+We need a new RG Group created mail enabled so it generates a ticket number and assigns directly to that RG group. 
+
+RG Desktop – Executive
+Smtp: execsupport@viacom.com
+Owner: Amar Patel 
+Members: Amar Patel, David Sproule, Rica Natividad, Marcin Bak, David Evans, Fernando Fernandez
+
+
+Please let me know if you have any questions. 
+
+Best, 
+Amar 
+",Amar Patel (mtvn\Patela),0,a
+"Can I have a monthly report emailed to me  with the following - 
+ 
+RITMS/SCTasks Closed by Tech 
+RITMS/SCTasks Closed by Assignment Group
+INC's Resolved by Tech 
+INC Resolved by Assignment Group
+INC aging older than 30 days by Assignment Group 
+RITMs/SC Tasks active by Tech
+RITM/SC Tasks Active by Assignment Group ",Amar Patel (mtvn\Patela),1,a
+"Please disable SLA/OLA notifications for the following RG Service Groups 
+
+RG Desktop – New York 1515_2-17
+RG Desktop – New York 1515_20-31
+RG Desktop – New York 1515_32-41            
+RG Desktop – New York 1515_42-53",Amar Patel (mtvn\Patela),0,b
+"Team,
+
+Request you to provide ITIL Access to Ameet Ramugade (mtvn\ramugaaam) mirror the access to  Aniket Chavhan (mtvn\ChavhanA)
+
+Billy, please approve the request.
+
+Thanks & Regards,
+Darpesh",Ameet Ramugade (mtvn\ramugaam),1,b
+"Please activate Amira Onibudo's ServiceNow Account
+
+domain\adid: mtvn\onibuda",AMIRA ONIBUDO,0,b
+"Hi Helpdesk,
+
+Please create a ticket and assign it to RG ServiceNow team.
+
+Thanks,
+Amol
+From: Singh, Amit
+Sent: 18 May 2017 5:09 PM
+To: RG ServiceNow
+Subject: Service now too slow: Hangs every 5 mins
+
+Hi Team,
+
+I am facing service now slowness issue due to which not able to work
+Service now hangs every 5 minutes and damn slow
+Other applications are just fine. No network issue as this is the only affected application
+User ID: corp\singham
+Facing issue from last week
+
+Can you please assist?
+
+Amit Singh
+ESG/WCCS/WCMS/INTELSYS/NOTES/VSI/CCE/CCS-L2/P-CCS
+* + 2126549430 | * amit.singh@viacomcontractor.com<mailto:amit.singh@viacomcontractor.com>
+================================================
+
+
+This email (including any attachments) is for its intended-recipient's use only. This email may contain information that is confidential or privileged. If you received this email in error, please immediately advise the sender by replying to this email and then delete this message from your system.",Amol Patankar (paramount\PATANKAM),1,b
+The priority field in for creating a new Story is read only and does not allow to set the desired priority based on the requirement. This field should be editable in the Agile Module.,Amol Patankar (paramount\PATANKAM),0,b
+"Looks like tickets aren't being created upon emailing to request@onlineops.viacom.com and request@dss.viacom.com.
+Below if example of ticket, which wasn't created. Please treat it with high priority!",Andrei Bykau (mtvn\bykauan),1,b
+"Good afternoon,
+
+My coworker Francesco Ferrara (copied here) needs access to Alias/VMS, Signiant Media Exchange, and MediaBus in order to do his job correctly. He’s worked with MTV News since August, but for some reason he isn’t able to reach ServiceNow to request access; when I try to request access for him, his info isn’t available in the ServiceNow directory.
+
+Could you please grant him access to these platforms? His access levels should be mirrored to Samuel Freund's and our supervisor Christina Beale can be reached for approval.
+
+Thank you!
+
+Andrew Koller
+Digital Production Assistant // MTV News
+612.250.5385",Andrew Koller (mtvn\Kollera),0,b
+"Hello group,
+
+Kevin is trying to access the service now portal to create an online meeting ID. When trying to access the page from the greenroom link he continually gets the below message. Had him try logging in on another machine but still getting the same message.
+
+Sign-Out Page
+[logo]
+  federated authentication services
+You have signed out.
+For improved security, we recommend that you close all browser windows at the end of your online session.
+
+Thanks again,
+
+Andy Luther | Desktop Support Technician | VIACOM
+Office: (615) 807-7160 | Cell: (615) 428-7241 |800 Crescent Centre Drive Suite 300 Franklin, TN  37067
+Andy.Luther@viacom.com<mailto:Andy.Luther@viacom.com>
+
+P Please consider the environment before printing this email.",Andy Luther (mtvn\lutherf),1,b
+"Hi,
+
+For some reason I have lost the ability to add notes to tickets (fields are no longer visible).
+
+Could you please look into this as I need to be able to add notes to ensure incidents are completed without delays?
+
+Thank you,
+
+Angeliki Kanata
+Senior Procurement Analyst
+
+Viacom International Media Networks | 17-29 Hawley Crescent | London | NW1 8TT
+T: +44 (0) 2035802292
+Angeliki.Kanata@vimn.com<mailto:Angeliki.Kanata@vimn.com>
+
+[cid:image001.png@01CD488D.9204D030]",Angeliki Kanata (mtvne\Kanataan),0,b
+"User is unable to log into ServiceNow, her AD account was created on May 22nd, 2016 however her name does not show up in ServiceNow
+
+The Angelina Mercedes (manual) Record was manually created by Access Controls before her AD account existed
+
+Please confirm why user is not showing up in ServiceNow
+
+name: Angelina Mercedes
+domain\adid: mtvn\mercedea
+email: Angelina.Mercedes@viacommix.com
+
+see attachment for error message
+
+",Angelina Mercedes (manual),1,b
+"Team,
+
+Provide Service Now Access to Aniket Chavhan(mtvn\ChavhanA) Mirror Access to : Ninad Bhise and allow access to below groups:
+
+1.	Corp Sys - Rights & CP - CW - NC 
+2.	Corp Sys - Rights & CP - L2 
+3.	CPNickCentralSupport 
+4.	CPTechSupport 
+5.	IPSTechSupport 
+6.	PMTechSupport 
+7.	RMSTechSupport 
+8.	Corp Sys - Legal - L2
+
+Paul, please approve the request
+
+Thanks
+Darpesh
+",Aniket Chavhan (mtvn\ChavhanA),,b
+"Hi ITSM Team,
+
+Can you please cancel the change CHG00125726 from the back end as I am unable to do so. Please find the attached mail chain as the reason for the cancellation the change from Kerry(the requester of the change).
+In case of any issues please respond back,",Ankur Vajpayee (paramount\vajpayan),0,b
+"Please grant Romanovich, Anna Itil access in service now.",Anna Romanovich (mtvn\Romanoan),1,b
+TEST incident : Please ignore,Anshuman Kaul (corp\kaula),0,b
+"Hi Team,
+
+We are experiencing a very high latency while accessing Service now from Amsterdam Office. 
+
+C:\Users\kaula>ping vmnprod.service-now.com -t
+Pinging vmnprod.service-now.com [199.91.136.100] with 32 bytes of data:
+Reply from 199.91.136.100: bytes=32 time=138ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=141ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=139ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=142ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=138ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=142ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=142ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=141ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=139ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=141ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=141ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=138ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=142ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=139ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=141ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=139ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=142ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=139ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=141ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=142ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=140ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=139ms TTL=242
+Reply from 199.91.136.100: bytes=32 time=142ms TTL=242
+
+Ping statistics for 199.91.136.100:
+    Packets: Sent = 31, Received = 31, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 138ms, Maximum = 142ms, Average = 140ms
+
+
+It took me 20 minutes to create this incident (Selecting Category, Sub-Category, Impacted CI and Assignment group)
+Please help. I have to login to my VDI machine located in New York to be able to work.
+
+
+From VDI in US
+C:\Users\kaula>ping vmnprod.service-now.com
+
+Pinging vmnprod.service-now.com [199.91.136.100] with 32 bytes of data:
+Reply from 199.91.136.100: bytes=32 time=20ms TTL=245
+Reply from 199.91.136.100: bytes=32 time=20ms TTL=245
+Reply from 199.91.136.100: bytes=32 time=20ms TTL=245
+Reply from 199.91.136.100: bytes=32 time=20ms TTL=245
+
+Ping statistics for 199.91.136.100:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 20ms, Maximum = 20ms, Average = 20ms",Anshuman Kaul (corp\kaula),1,b
+"Can you please advise how to submit a server commissioning request  for Remote Site location (e.g. Singapore, Australia. Japan, Sweden) as it does not come under Data Center Locations and the commissioning request will not let us proceed until we submit the location. We can see only see 34 Locations in the details and all the other Locations are missing. We have to submit commissioning requests for there locations.
+Please advise.
+
+Regards
+Kaul
+Content Delivery Services
+",Anshuman Kaul (corp\kaula),0,b
+"Hi,
+
+Please provide Anthony Muscarella the ITIL view in ServiceNow.
+
+Thanks.
+
+Michael Martelli
+Sr. Director, Media Content Services
+Office: (212) 846-8834 | Cell: (347) 237-2689
+Email: michael.martelli@viacom.com<mailto:michael.martelli@viacom.com>",Anthony Muscarella (mtvn\muscarea),1,b
+"How can I add a task to service-now when a tax user is terminated? There are several systems they need to be removed or disabled?
+_A
+
+
+[cid:image001.jpg@01D15792.C2FAE7C0]
+
+Antonio Garcia
+Manager, Tax & Treasury Systems
+1540 Broadway 32nd Floor, NY, NY 10036
+antonio.garcia@viacom.com<mailto:antonio.garcia@viacom.com> | p:212 654-8523 c:914 564-1957",Antonio Garcia (Antonio.Garcia@viacom.com),0,b
+"Hi Helpdesk,
+Please assign incident to service-now team for below issue -
+My last name is appearing something different as seen below since yesterday. It was fine before. My id is gajghaan. Please correct it ASAP.
+[cid:image001.png@01D23FEE.23891B40]
+
+Thanks and Best Regards,
+Anup Gajghate
+______________________________________________________________________________________________________________________________________________________________
+Enterprise Data Warehousing and Business Intelligence, Information Technology
+anup_gajghate@paramount.com<mailto:anup_gajghate@paramount.com> | 323 956 3286 (Office) | 323 251 2561 (Cell)
+Paramount Pictures | 5555 Melrose Avenue, Hollywood, CA 90038
+
+
+This email (including any attachments) is for its intended-recipient's use only. This email may contain information that is confidential or privileged. If you received this email in error, please immediately advise the sender by replying to this email and then delete this message from your system.",Anup Gajghate (paramount\gajghaan),1,b
+"Hi Helpdesk,
+Please add seemansa (cc in mail) to P-Datawar group in service now.
+Thanks and Best Regards,
+Anup Gajghate
+______________________________________________________________________________________________________________________________________________________________
+Enterprise Data Warehousing and Business Intelligence, Information Technology
+anup_gajghate@paramount.com<mailto:anup_gajghate@paramount.com> | 323 956 3286 (Office) | 323 251 2561 (Cell)
+Paramount Pictures | 5555 Melrose Avenue, Hollywood, CA 90038
+
+
+This email (including any attachments) is for its intended-recipient's use only. This email may contain information that is confidential or privileged. If you received this email in error, please immediately advise the sender by replying to this email and then delete this message from your system.",Anup Gajghate (paramount\gajghaan),0,b
+"Hi Helpdesk,
+Please assign incident to Service-now team.
+Hi Service-now team,
+I had few questions regarding our requirement of adding MicroStrategy (MSTR) application access to PAC request.
+
+1.       Is it possible to add the application request as a part of PAC request. So when Onboarding/Offboarding request is raised MSTR access can be added as an item.
+
+2.       Is it possible to trigger MSTR services(user creation/removal) from service-now when request is raised.
+Please let me know if you need more details.
+Thanks and Best Regards,
+Anup Gajghate
+______________________________________________________________________________________________________________________________________________________________
+Enterprise Data Warehousing and Business Intelligence, Information Technology
+anup_gajghate@paramount.com<mailto:anup_gajghate@paramount.com> | 323 956 3286 (Office) | 323 251 2561 (Cell)
+Paramount Pictures | 5555 Melrose Avenue, Hollywood, CA 90038
+
+
+This email (including any attachments) is for its intended-recipient's use only. This email may contain information that is confidential or privileged. If you received this email in error, please immediately advise the sender by replying to this email and then delete this message from your system.",Anup Gajghate (paramount\gajghaan),1,b
+"Hi Team,
+
+Please configure servicenow for the new user paramount\bhardwsh you can use paramount\kashyavi as mirror id
+
+User bhardwsh is not able to see all the options at servicenow homepage except self-service.",Anuradha Palit (paramount\palitan),0,b
+"Hi Team,
+
+The SLA filter for reports is not working properly and giving incorrect data. I am trying to fetch SLA report(only for Parent incidents) for the month of July for TCS Infrastructure Contract, which is generating wrong data.
+
+For reference, BRS-L2 Count for Response Achieved is 1 which is really not possible, as when last week I fetched report till 23rd July the count was 305.
+
+Please see the attached screen-shots.(Only for Response & Resolution Achieved) .
+
+
+
+Kindly assist.
+Thanks",Anuradha Palit (paramount\palitan),1,b
+"hello Team,
+
+I am already a part of assignment group BRS-L2 , please also add me to TSM-L2.
+
+Attached is the approval email.",Anuradha Palit (paramount\palitan),0,b
+"Could you grant ServiceNow ITIL view access and assign RG Desktop - Hungary and RG Desktop - Russia group the following two Admin users?
+
+Bartl, Bence (mtvne\bartlb)
+Szabo, Daniel (mtvne\szabod)
+",Arif Azeez (mtvn\Azeeza),1,b
+Remove Hemant Dubey name from MCS-L2. ELCS-L2 and NIX-L2 service now queue. He is not a part of NIX team now.,Arun Goyal (corp\goyala),0,b
+User reporting a very slow response when using Service Now and approximately 10-15 other local usersusers are experiencing the same issue. ,Arun Goyal (corp\goyala),1,b
+Please modify current template associated with HRAD_SEC_Support@viacom.com ,Arun Mohan (viacom_corp\Mohana),,b
+Can you please remove Anthony Augi from Hyperion Corporate approvers? Attached the screenshot of the same. Please let me know if you need more details.,Arun Prasath (paramount\prasatar),0,b
+"Hello Team,
+
+Whenever i am updating any ticket on service now. its not visible to me on ticket notes however its visible to other users.
+
+PLease look in to this on priority as i am facing this issue from last 20 days.
+
+Regards
+Ashish",Ashish Kumar (paramount\kumaras1),1,b
+Mirror Ashish Kumar ID (Paramount/kumaras1) with Sarvesh Singhal ( paramount/Singhasa) on service Now.,Ashish Kumar (paramount\kumaras1),0,b
+"Hello team,
+
+Please put the CI RAPTEVA  out of maintenance mode as we are unable to create decom change for this CI.
+
+Regards
+Ashish",Ashish Kumar (paramount\kumaras1),1,b
+"Hi Team,
+
+I am unable to remove user from the change key client approval list which is preventing my change from moving to the next stage. Screenshot of error attached.
+Change number - CHG00151236
+User to remove - Brian Li
+Please advise.
+
+
+
+ [cid:image001.jpg@01D15792.C2FAE7C0]   Ashish Pujari
+Sr. Security Analyst
+Phone - 212-846-4767",Ashish Pujari (mtvn\pujaria),0,b
+"Hi Team,
+
+Why are these alerts being forwarded to Lee?
+From: Viacom TechConnect [mailto:vmnprod@service-now.com]
+Sent: Tuesday, May 23, 2017 3:47 PM
+To: L'Archevesque, Lee; O'Brien, K.C.
+Subject: P3 - Moderate INC02191862 has caused a SLA breach
+
+Incident
+
+INC02191862<https://vmnprod.service-now.com/nav_to.do?uri=incident.do%3Fsys_id=7105b59513f2be0076c17b304244b0d7%26sysparm_stack=incident_list.do%3Fsysparm_query=active=true>
+
+Reported by:
+
+Soap Integration Agent
+
+Short Description:
+
+PRTG HST: tritondc-prd2.mtvn.ad.viacom.com SVC: Infrastructure Services
+
+Description:
+
+tritondc-prd2.mtvn.ad.viacom.com | Svc: Check All Services v2 (EXE/Script) | Services Stopped @{name=WebsenseDCAgent; state=Stopped} | Status Sent: Warning | PRTG Core 2 - https://msprtg-p020.corp.ad.viacom.com/device.htm?id=4209
+
+Impacted CI
+
+tritondc-prd2.mtvn.ad.viacom.com
+
+Priority:
+
+P3 - Moderate
+
+Asgmt Grp:
+
+Infosec-L3
+
+Category / Subcategory:
+
+Alert | Other
+
+SLA Name:
+
+SLA-RESOLUTION-P3-5Days
+
+SLA Duration:
+
+1 Day 16 Hours
+
+Time Left:
+
+0 Seconds
+
+Elapsed Time:
+
+1 Day 16 Hours
+
+Elapsed percentage:
+
+100
+
+
+Ref:MSG56876054",Ashish Pujari (mtvn\pujaria),1,b
+"Please assist.
+
+ [cid:image001.jpg@01D15792.C2FAE7C0]   Ashish Pujari
+Sr. Security Analyst
+Phone - 212-846-4767",Ashish Pujari (mtvn\pujaria),0,b
+"Hi,
+
+Please  provide instructions on how to update the key client approval list for the below CI
+Lieberman Enterprise Random Password Manager (ERPM)",Ashish Pujari (mtvn\pujaria),1,b
+"Hi Team,
+
+I am trying to close the below Incident, but the system is not allowing me to do so.
+INC01733877
+
+Please advise.
+
+ [cid:image001.jpg@01D15792.C2FAE7C0]   Ashish Pujari
+Sr. Security Analyst
+Phone - 212-846-4767",Ashish Pujari (mtvn\pujaria),0,b
+"User is a manager and when approving requests on her end, the approvals are not reaching ServiceNow.
+Please refer to ticket INC01999195 for example.
+I advised the manager to REPLY ALL for an approval, I received the approval via e-mail, but did not make it into the requesting ticket.
+User has stated when needing to approve new hires or application requests, users have to forward her Approval because they do not show in ticket
+Routing this to SN group for further action.",Ashley Mettille (mtvn\mettilla),1,b
+Please help to add patrosa and ambadani to DTM Support group so that they are able to manage DTM tickets and change requests in Service-Now.,Ashwani Kumar (paramount\kumaras),0,b
+"Hi Service-Now Team,
+
+We have following application CIs marked as retirement candidates in SN. Please let us know when their status will be changed to 'Retired'?
+
+Is there anything pending from our side? We need to resolve this issue ASAP as currently these Cis are showing up on CIs missing infra (server, DBs) mapping report.
+
+Purple Pen<https://vmnprod.service-now.com/cmdb_ci_appl.do?sys_id=673d83df05172000006e41c3a111f9e4&sysparm_record_target=cmdb_ci&sysparm_record_row=1&sysparm_record_rows=9071&sysparm_record_list=category%3DCMDB%5Einstall_status%3D1%5Ename%3E%3DPurple+Pen%5EORDERBYname> Purple Pen - DEV<https://vmnprod.service-now.com/cmdb_ci_appl.do?sys_id=3efc77b905ab6000006e41c3a111f927&sysparm_record_target=cmdb_ci&sysparm_record_row=2&sysparm_record_rows=9071&sysparm_record_list=category%3DCMDB%5Einstall_status%3D1%5Ename%3E%3DPurple+Pen%5EORDERBYname> Purple Pen - QA<https://vmnprod.service-now.com/cmdb_ci_appl.do?sys_id=1beb7f7905ab6000006e41c3a111f92a&sysparm_record_target=cmdb_ci&sysparm_record_row=3&sysparm_record_rows=9071&sysparm_record_list=category%3DCMDB%5Einstall_status%3D1%5Ename%3E%3DPurple+Pen%5EORDERBYname> Image On Demand<https://vmnprod.service-now.com/cmdb_ci_appl.do?sys_id=64cc49800a0a3c560008b8bd2aee61df&sysparm_record_target=cmdb_ci&sysparm_record_row=1&sysparm_record_rows=24309&sysparm_record_list=category%3DCMDB%5Einstall_status%3D1%5Ename%3E%3DImage+On+Demand%5EORDERBYname> Image On Demand - DEV<https://vmnprod.service-now.com/cmdb_ci_appl.do?sys_id=d7832ccd709b4000006e70c04e332bbf&sysparm_record_target=cmdb_ci&sysparm_record_row=2&sysparm_record_rows=24309&sysparm_record_list=category%3DCMDB%5Einstall_status%3D1%5Ename%3E%3DImage+On+Demand%5EORDERBYname>
+
+[cid:image002.png@01D1E729.C04926F0]
+
+Thanks,
+Ashwani
+
+
+This email (including any attachments) is for its intended-recipient's use only. This email may contain information that is confidential or privileged. If you received this email in error, please immediately advise the sender by replying to this email and then delete this message from your system.",Ashwani Kumar (paramount\kumaras),1,b
+"Hi ITSM Support,
+
+Our team member's contact numbers are not updated in the Service-Now application, please help to update it.
+
+User ID: Patiltr
+Mobile phone:- +91-9004518019
+Preferred Contact Method: Mobile
+
+User ID: kalyanab
+Mobile phone: +91-9987231099
+Preferred Contact Method: Mobile
+
+User ID: kumaras
+Mobile phone: +91-9769878429
+Home phone: +91-9769878429
+Preferred Contact Method: Mobile",Ashwani Kumar (paramount\kumaras),0,b
+Please add Trupti_Patil@paramount.com(patiltr) and Nikita_Ambadaskar@paramount.com(ambadani) to Serviuce Now Support groups ARC & P-ECM,Ashwani Kumar (paramount\kumaras),1,b
+"Hello,
+
+I am a new employee here, and I am trying to login to servicenow.viacom.com in order to set up my email on my phone. I am getting a message, however, that says I have signed out, and I'm not sure how to get onto the system.
+
+Thank you for your help.
+
+Austin",Austin Whittle (Austin.Whittle@viacom.com),0,b
+"Please give access to Aysha to Startrak / multitrack
+
+
+1. Granting an access to StarTrack/MultiTrack platform
+
+2. Setting up a ServiceNow account
+
+
+My username is MTVN\alekays, room 420B at 1515, and phone number (212) 846 -9205.",AYSHA  ALEKSANDROVICH,1,b
+"Please activate user in ServiceNow
+
+name: Aysha Aleksandrovich
+Domain\adid: MTVN\alekays,
+SMTP Address: Aysha.Aleksandrovich@viacommix.com 
+is user's AD Account active? YES
+is user in correct OU? YES
+OU: mtvn.ad.viacom.com/*Accounts/User/
+
+contact (212) 846 -9205.",AYSHA  ALEKSANDROVICH,,b
+"Hi Team,
+
+Please provide access to Ayush Singh (ayush.singh@viacomcontractor.com) access to vsts serivce now Queue.
+
+Regards
+Taran",Ayush Singh (mtvn\Singhay),0,b
+Praveen seshan is no longer with paramount.  Please make bajaji owner of ETL - CI Owner,Balaji Krishnamurthy (paramount\krishnba),1,b
+"Please grant user's Corp Account to ServiceNow Assignment groups using the below mirror.
+
+name: Barbara Blackaller Guerrero 
+Domain\adid: corp\blackalb
+
+user needs the same access as the mirror: Navneet Agarwal: Corp\Agarwna
+
+see below for Adam Van Antwerp's approval
+
+From: Van Antwerp, Adam 
+Sent: Monday, March 13, 2017 4:35 PM
+To: Hersh, Ross; Blackaller Guerrero, Barbara
+Cc: Lockwood, Win
+Subject: RE: Help for user stuck with two AD accounts
+
+Hi Ross,
+   Here is a breakdown of what Barbara needs access to.
+
+Viacom VDI Desktop 
+Outlook Email Barbara.BlackallerGuerrero@viacomcontractor.com
+Viacom Project 2010 VDI
+Paramount Jira/Confluence
+Viacom Jira/Confluence
+Viacom BlueJeans
+Viacom ServiceNow
+
+
+Thanks,
+-Adam
+
+
+",Barbara Blackaller Guerrero (corp\blackalb),0,b
+"Hi,
+
+Since today I get excessive error while trying to login to Service-Now:
+
+Bad Request - Request Too Long
+HTTP Error 400. The size of the request headers is too long.
+
+This comes from the following URL (note I replaced SAMLRequest parameter with x’s of the same length):
+https://fs.viacomcloud.com/adfs/ls?SAMLRequest=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx%3D%3D&RelayState=https%3A%2F%2Fvmnprod.service-now.com%2Fsaml_redirector.do%3Fsysparm_nostack%3Dtrue%26sysparm_uri%3D%252Fnav_to.do%253Furi%253D%25252Fhome.do%25253Fsysparm_auto_request%25253Dtrue
+
+I tried to click “Sign Out from all the sites” at https://fs.viacomcloud.com/adfs/ls/idpinitiatedsignon.aspx but it doesn’t seem to help this time.
+
+Until today it happened maybe once a week or so, but now it happens every few minutes and got really annoying.
+Please
+
+Thanks,
+Bart
+
+--
+Bartlomiej Korupczynski
+Lead Systems Engineer, MCS-L3
+
+Viacom International Media Networks
+ul. Domaniewska 49, 02-672 Warszawa
+Tel.: 0048 22 477 20 00   Fax: 0048 22 477 20 01
+e-mail: bartlomiej.korupczynski@vimn.com",Bartlomiej Korupczynski (mtvne\Korupczb),1,b
+ServiceNow access for Ben Lobaugh (mtvn\Lobaughb),Ben Lobaugh (mtvn\Lobaughb),0,b
+"Callers Name\Domain\Username: Betsy Hang (viacom_corp\hangb)
+Contact Phone #: 2128463152
+Physical Address/Bldg/Floor/Office: 1515 Broadway - 51087
+Currently Onsite or Remote?: oN sITE
+Type of Device & Operating System: wINDOWS 7
+
+Description of Issue: User attempting to make an order via service now, getting ""you must select at least one role"" error message.
+Troubleshooting Completed/Attempted:Attempted to use another browser, this failed.
+Routing to local desktop to for resolution.
+",Betsy Hang (viacom_corp\hangb),1,b
